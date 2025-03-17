@@ -10,5 +10,11 @@ I've kept this project to myself for a long time, but I’ve come to realize tha
 אדם פרטי יכול להשתמש בחינם
 ועסקה חברה או כל תאגיד למתרון רווח ליצור קשר לקבלת רשיון במחיר נהדר
 
+לאנשים פרטיים בלבד * 
+* לא למטרות רווח 
+* למטרות רווח לפנות אליי
+
+
+
 If used for profit, I would be happy to receive a symbolic percentage. meir.elizarov@gmail.com
 
