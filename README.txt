@@ -9,6 +9,6 @@ I've kept this project to myself for a long time, but I’ve come to realize tha
 
 If used for profit, I would be happy to receive a symbolic percentage. meir.elizarov@gmail.com
 
-(בלי לפגוע בזכויות) רשיון
+(אין לי שמץ ברשיונות) רשיון
 Apache 2.0 + AGPL
 
