@@ -14,7 +14,13 @@ I've kept this project to myself for a long time, but I’ve come to realize tha
 * לא למטרות רווח 
 * למטרות רווח לפנות אליי
 
+A private individual can use it for free.
+A business, company, or any for-profit corporation should contact me for a great licensing deal.
 
+For personal use only *
+
+Not for profit use
+For profit use – please contact me
 
 If used for profit, I would be happy to receive a symbolic percentage. meir.elizarov@gmail.com
 
