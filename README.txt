@@ -8,7 +8,7 @@ I started developing approaches to solve the Traveling Salesman Problem during m
 I've kept this project to myself for a long time, but I’ve come to realize that it’s not good to be alone. I'm not the strongest at programming, but I excel in logic and analysis. If anyone needs help or has questions, I’d be more than happy to assist.
 
 אדם פרטי יכול להשתמש בחינם
-ועסקה חברה או כל תאגיד למתרון רווח ליצור קשר לקבלת רשיון במחיר נהדר
+עסק חברה או כל תאגיד למטרות רווח ליצור קשר לקבלת רשיון במחיר נהדר
 
 לאנשים פרטיים בלבד * 
 * לא למטרות רווח 
